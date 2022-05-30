@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JFNews</string>
+    <string name="main_coniner">main_container</string>
+    <string name="api_key">25d149c412314a2cb10443f62915c304</string>
+</resources>
